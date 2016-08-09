@@ -1,11 +1,14 @@
-1. Place emoticon images in your CustomEmoticons folder in Jabber
+# Custom Jabber Emoticons
+- Clone this repository to:
+ - `C:\Program Files (x86)\Cisco Systems\Cisco Jabber` (delete your CustomEmoticons folder first)
+ - Or wherever you like, but you'll have to copy everything to either `...\Cisco Jabber\Emoticons` or `...\Cisco Jabber\CustomEmoticons` manually each time you pull
+- Restart Jabber
+- Enjoy!
 
-2. Copy all <emoticon> tags from [name]_emoticonDefs.xml into your main emoticonDefs.xml file
-
-3. Jabber me with some test emoticons!
-
-Optional steps:
-3. Copy OrganizeEmoticons.exe into your CustomEmoticons folder in Jabber
-
-4. Run it, and enter the first letter or two of your name
-(this sorts yours to the top of the list so you can more easily select them in Jabber)
+### Optional steps
+I've included a program to sort the xml file so that your emoticons can show up at the top, for easier selecting in the emoticon picker box. If you'd like to sort your emoticons, follow these steps:
+- Run `OrganizeEmoticons.exe`
+- Enter the name of the file you wish to sort (`emoticonDefs.xml`)
+- According to the prompt, enter the first letter or two of your name
+- Restart Jabber
+- Enjoy!
