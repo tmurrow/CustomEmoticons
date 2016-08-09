@@ -65,11 +65,11 @@
 		<alt>tX-P</alt>
 		<alt>tloltongue;</alt>
 	</emoticon>
-	<emoticon defaultKey="t&lt;3D" image="tanya_love.png" text="Tanya Love" order="15">
-		<alt>t&lt;3-D</alt>
-		<alt>tlove;</alt>
+	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="16">
+		<alt>t:&lt;3-D*</alt>
+		<alt>tlovebarf;</alt>
 	</emoticon>
-	<emoticon defaultKey="t&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="16">
+	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="16">
 		<alt>t:&lt;3-D*</alt>
 		<alt>tlovebarf;</alt>
 	</emoticon>
@@ -469,42 +469,84 @@
 	<emoticon defaultKey="to&gt;:O" image="tony_angry.png" text="Tony Angry" order="115">
 		<alt>to&gt;:-O</alt>
 	</emoticon>
-	<emoticon defaultKey="to:D" image="tony_excited.png" text="Tony Excited" order="116">
+	<emoticon defaultKey="to:|" image="tony_blank.png" text="Tony Blank" order="116">
+		<alt>to:-|</alt>
+	</emoticon>
+	<emoticon defaultKey="to:D" image="tony_excited.png" text="Tony Excited" order="117">
 		<alt>to:-D</alt>
 	</emoticon>
-	<emoticon defaultKey="to&gt;:(" image="tony_frown.png" text="Tony Frown" order="117">
+	<emoticon defaultKey="to&gt;:(" image="tony_frown.png" text="Tony Frown" order="118">
 		<alt>to&gt;:-(</alt>
 	</emoticon>
-	<emoticon defaultKey="to:)" image="tony_smile.png" text="Tony Smile" order="118">
+	<emoticon defaultKey="to^_^" image="tony_happy.png" text="Tony Happy" order="119">
+		<alt>to^-^</alt>
+	</emoticon>
+	<emoticon defaultKey="toxD" image="tony_laughing.png" text="Tony Laughing" order="120">
+		<alt>tox-D</alt>
+	</emoticon>
+	<emoticon defaultKey="to:(" image="tony_sad.png" text="Tony Sad" order="121">
+		<alt>to:-(</alt>
+	</emoticon>
+	<emoticon defaultKey="to&lt;_&lt;" image="tony_shiftyleft.png" text="Tony ShiftyLeft" order="122">
+		<alt>to&lt;.&lt;</alt>
+		<alt>toshiftyleft;</alt>
+	</emoticon>
+	<emoticon defaultKey="to&gt;_&gt;" image="tony_shiftyright.png" text="Tony ShiftyRight" order="123">
+		<alt>to&gt;.&gt;</alt>
+		<alt>toshiftyright;</alt>
+	</emoticon>
+	<emoticon defaultKey="to:)" image="tony_smile.png" text="Tony Smile" order="124">
 		<alt>to:-)</alt>
 	</emoticon>
-	<emoticon defaultKey="mbr:D" image="mattbr_excited.png" text="Matt Excited" order="119">
+	<emoticon defaultKey="to:o" image="tony_surprised.png" text="Tony Surprised" order="125">
+		<alt>to:-o</alt>
+	</emoticon>
+	<emoticon defaultKey="tothumbsup;" image="tony_thumbsup.png" text="Tony Thumbs Up" order="126">
+		<alt>toyes;</alt>
+	</emoticon>
+	<emoticon defaultKey="to|(" image="tony_tired.png" text="Tony Tired" order="127">
+		<alt>to|-(</alt>
+		<alt>totired;</alt>
+	</emoticon>
+	<emoticon defaultKey="to:-\" image="tony_undecided.png" text="Tony Undecided" order="128">
+		<alt>to:\</alt>
+		<alt>to:/</alt>
+		<alt>to:-/</alt>
+	</emoticon>
+	<emoticon defaultKey="to:-|" image="tony_unimpressed.png" text="Tony Unimpressed" order="129">
+		<alt>to:|</alt>
+	</emoticon>
+	<emoticon defaultKey="to:O" image="tony_wow.png" text="Tony Wow" order="130">
+		<alt>to:-O</alt>
+		<alt>towow;</alt>
+	</emoticon>
+	<emoticon defaultKey="mbr:D" image="mattbr_excited.png" text="Matt Excited" order="131">
 		<alt>mbr:-D</alt>
 	</emoticon>
-	<emoticon defaultKey="mbr:(" image="mattbr_sad.png" text="Matt Sad" order="120">
+	<emoticon defaultKey="mbr:(" image="mattbr_sad.png" text="Matt Sad" order="132">
 		<alt>mbr:-(</alt>
 	</emoticon>
-	<emoticon defaultKey="mbr:)" image="mattbr_smile.png" text="Matt Smile" order="121">
+	<emoticon defaultKey="mbr:)" image="mattbr_smile.png" text="Matt Smile" order="133">
 		<alt>mbr:-)</alt>
 	</emoticon>
-	<emoticon defaultKey="mbrB|" image="mattbr_sunglasses.png" text="Matt Sunglasses" order="122">
+	<emoticon defaultKey="mbrB|" image="mattbr_sunglasses.png" text="Matt Sunglasses" order="134">
 		<alt>mbrB-|</alt>
 		<alt>mbrdealwithit</alt>
 	</emoticon>
-	<emoticon defaultKey="mbrthumbup" image="mattbr_thumbup.png" text="Matt Thumb Up" order="123">
+	<emoticon defaultKey="mbrthumbup" image="mattbr_thumbup.png" text="Matt Thumb Up" order="135">
 		<alt>mbryes</alt>
 	</emoticon>
-	<emoticon defaultKey="mbr:-\" image="mattbr_undecided.png" text="Matt Undecided" order="124">
+	<emoticon defaultKey="mbr:-\" image="mattbr_undecided.png" text="Matt Undecided" order="136">
 		<alt>mbr:\</alt>
 		<alt>mbr:/</alt>
 		<alt>mbr:-/</alt>
 	</emoticon>
-	<emoticon defaultKey="mbr:-|" image="mattbr_unimpressed.png" text="Matt Unimpressed" order="125">
+	<emoticon defaultKey="mbr:-|" image="mattbr_unimpressed.png" text="Matt Unimpressed" order="137">
 		<alt>mbr:|</alt>
 	</emoticon>
-	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="126">
+	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="138">
 	</emoticon>
-	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="127">
+	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="139">
 		<alt>/levelup</alt>
 	</emoticon>
 </emoticons>
