@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emoticons>
+	<emoticon defaultKey="to&gt;:O" image="tony_angry.png" text="Tony Angry" order="1">
+		<alt>to&gt;:-O</alt>
+	</emoticon>
+	<emoticon defaultKey="to:D" image="tony_excited.png" text="Tony Excited" order="2">
+		<alt>to:-D</alt>
+	</emoticon>
+	<emoticon defaultKey="to&gt;:(" image="tony_frown.png" text="Tony Frown" order="3">
+		<alt>to&gt;:-(</alt>
+	</emoticon>
+	<emoticon defaultKey="to:)" image="tony_smile.png" text="Tony Smile" order="10">
+		<alt>to:-)</alt>
+	</emoticon>
+</emoticons>

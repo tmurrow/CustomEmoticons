@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emoticons>
+	<emoticon defaultKey="b&gt;:O" image="bill_angry.png" text="Bill Angry" order="1">
+		<alt>b&gt;:-O</alt>
+	</emoticon>
+	<emoticon defaultKey="b:D" image="bill_excited.png" text="Bill Excited" order="2">
+		<alt>b:-D</alt>
+	</emoticon>
+	<emoticon defaultKey="b&gt;:(" image="bill_frown.png" text="Bill Frown" order="3">
+		<alt>b&gt;:-(</alt>
+	</emoticon>
+	<emoticon defaultKey="b^_^" image="bill_happy.png" text="Bill Happy" order="4">
+		<alt>b^-^</alt>
+		<alt>b^.^</alt>
+	</emoticon>
+	<emoticon defaultKey="bxD" image="bill_laughing.png" text="Bill Laughing" order="5">
+		<alt>bXD</alt>
+	</emoticon>
+	<emoticon defaultKey="bx)" image="bill_lol.png" text="Bill Lol" order="6">
+		<alt>bx-)</alt>
+		<alt>bX)</alt>
+		<alt>bX-)</alt>
+	</emoticon>
+	<emoticon defaultKey="b:(" image="bill_sad.png" text="Bill Sad" order="7">
+		<alt>b:-(</alt>
+	</emoticon>
+	<emoticon defaultKey="b&lt;_&lt;" image="bill_shiftyleft.png" text="Bill Shifty Left" order="8">
+		<alt>b&lt;.&lt;</alt>
+	</emoticon>
+	<emoticon defaultKey="b&gt;_&gt;" image="bill_shiftyright.png" text="Bill Shifty Right" order="9">
+		<alt>b&gt;.&gt;</alt>
+	</emoticon>
+	<emoticon defaultKey="b:)" image="bill_smile.png" text="Bill Smile" order="10">
+		<alt>b:-)</alt>
+	</emoticon>
+	<emoticon defaultKey="b:o" image="bill_surprised.png" text="Bill Surprised" order="11">
+		<alt>b:-o</alt>
+	</emoticon>
+	<emoticon defaultKey="bthumbsup" image="bill_thumbsup.png" text="Bill Thumbs Up" order="12">
+		<alt>byes</alt>
+	</emoticon>
+	<emoticon defaultKey="b|(" image="bill_tired.png" text="Bill Tired" order="13">
+		<alt>b|-(</alt>
+	</emoticon>
+	<emoticon defaultKey="b:-\" image="bill_undecided.png" text="Bill Undecided" order="14">
+		<alt>b:\</alt>
+		<alt>b:/</alt>
+		<alt>b:-/</alt>
+	</emoticon>
+	<emoticon defaultKey="b:-|" image="bill_unimpressed.png" text="Bill Unimpressed" order="15">
+		<alt>b:|</alt>
+	</emoticon>
+	<emoticon defaultKey="b:O" image="bill_wow.png" text="Bill Wow" order="16">
+		<alt>b:-O</alt>
+	</emoticon>
+</emoticons>

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emoticons>
+	<emoticon defaultKey="t0:)" image="tanya_angel.png" text="Tanya Angel" order="1">
+		<alt>t0:-)</alt>
+		<alt>tangel;</alt>
+	</emoticon>
+	<emoticon defaultKey="t&gt;:O" image="tanya_angry.png" text="Tanya Angry" order="2">
+		<alt>t&gt;:-O</alt>
+		<alt>tangry;</alt>
+	</emoticon>
+	<emoticon defaultKey="t8D" image="tanya_awesome.png" text="Tanya Awesome" order="3">
+		<alt>t8-D</alt>
+		<alt>tawesome;</alt>
+	</emoticon>
+	<emoticon defaultKey="t|:P" image="tanya_blanktongue.png" text="Tanya Blank Tongue" order="4">
+		<alt>t|:-P</alt>
+		<alt>tblanktongue;</alt>
+	</emoticon>
+	<emoticon defaultKey="tcold;" image="tanya_cold.png" text="Tanya Cold" order="5">
+		<alt>tbrr;</alt>
+		<alt>tfreezing;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:,(" image="tanya_crying.png" text="Tanya Crying" order="6">
+		<alt>t:-,(</alt>
+		<alt>tx,(</alt>
+		<alt>tx-,(</alt>
+		<alt>tX,(</alt>
+		<alt>tX-,(</alt>
+		<alt>tcrying;</alt>
+	</emoticon>
+	<emoticon defaultKey="t&gt;:D" image="tanya_evilsmile.png" text="Tanya Evil Smile" order="7">
+		<alt>t&gt;:-D</alt>
+		<alt>tevil;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:D" image="tanya_excited.png" text="Tanya Excited" order="8">
+		<alt>t:-D</alt>
+		<alt>texcited;</alt>
+	</emoticon>
+	<emoticon defaultKey="t&gt;:(" image="tanya_frown.png" text="Tanya Frown" order="9">
+		<alt>t&gt;:-(</alt>
+		<alt>tfrown;</alt>
+	</emoticon>
+	<emoticon defaultKey="t^_^" image="tanya_happy.png" text="Tanya Happy" order="10">
+		<alt>t^-^</alt>
+		<alt>t^.^</alt>
+		<alt>thappy;</alt>
+	</emoticon>
+	<emoticon defaultKey="tidea;" image="tanya_idea.png" text="Tanya Idea" order="11">
+		<alt>t!:O</alt>
+		<alt>t!:-O</alt>
+	</emoticon>
+	<emoticon defaultKey="txD" image="tanya_laughing.png" text="Tanya Laughing" order="12">
+		<alt>tXD</alt>
+		<alt>tlaughing;</alt>
+	</emoticon>
+	<emoticon defaultKey="tx)" image="tanya_lol.png" text="Tanya Lol" order="13">
+		<alt>tx-)</alt>
+		<alt>tX)</alt>
+		<alt>tX-)</alt>
+		<alt>tlol;</alt>
+	</emoticon>
+	<emoticon defaultKey="txP" image="tanya_loltongue.png" text="Tanya Lol Tongue" order="14">
+		<alt>tx-P</alt>
+		<alt>tXP</alt>
+		<alt>tX-P</alt>
+		<alt>tloltongue;</alt>
+	</emoticon>
+	<emoticon defaultKey="m&lt;3D" image="tanya_love.png" text="Tanya Love" order="15">
+		<alt>t&lt;3-D</alt>
+		<alt>tlove;</alt>
+	</emoticon>
+	<emoticon defaultKey="m&lt;3D*" image="tanya_love_barf.png" text="Tanya Love Rainbows" order="16">
+		<alt>t:&lt;3-D*</alt>
+		<alt>tlovebarf;</alt>
+	</emoticon>
+	<emoticon defaultKey="t&gt;:)" image="tanya_mischievous.png" text="Tanya Mischievous" order="17">
+		<alt>t&gt;:-)</alt>
+		<alt>tmischievous;</alt>
+	</emoticon>
+	<emoticon defaultKey="tx_x" image="tanya_neverunsee.png" text="Tanya Never Unsee" order="18">
+		<alt>tX_X</alt>
+		<alt>tneverunsee;</alt>
+	</emoticon>
+	<emoticon defaultKey="tD:" image="tanya_ohno.png" text="Tanya Oh No" order="19">
+		<alt>tD-:</alt>
+		<alt>tohno;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:(" image="tanya_sad.png" text="Tanya Sad" order="20">
+		<alt>t:-(</alt>
+		<alt>tsad;</alt>
+	</emoticon>
+	<emoticon defaultKey="tshiftyeyes;" image="tanya_shiftyeyes.gif" text="Tanya Shifty" order="21">
+	</emoticon>
+	<emoticon defaultKey="t&lt;_&lt;" image="tanya_shiftyleft.png" text="Tanya Shifty Left" order="22">
+		<alt>t&lt;.&lt;</alt>
+		<alt>tshiftyleft;</alt>
+	</emoticon>
+	<emoticon defaultKey="t&gt;_&gt;" image="tanya_shiftyright.png" text="Tanya Shifty Right" order="23">
+		<alt>t&gt;.&gt;</alt>
+		<alt>tshiftyright;</alt>
+	</emoticon>
+	<emoticon defaultKey="toops;" image="tanya_shiftyrightteeth.png" text="Tanya Shifty Teeth" order="24">
+		<alt>t&gt;=&gt;</alt>
+	</emoticon>
+	<emoticon defaultKey="tsleeping;" image="tanya_sleeping.gif" text="Tanya Sleeping" order="25">
+		<alt>t-.-</alt>
+		<alt>t-o-</alt>
+		<alt>tsleepy;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:)" image="tanya_smile.png" text="Tanya Smile" order="26">
+		<alt>t:-)</alt>
+		<alt>tsmile;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:P" image="tanya_smiletongue.png" text="Tanya Smile Tongue" order="27">
+		<alt>t:-P</alt>
+		<alt>tsmiletongue;</alt>
+	</emoticon>
+	<emoticon defaultKey="t;)" image="tanya_smiling.gif" text="Tanya Smiling" order="28">
+		<alt>t;-)</alt>
+		<alt>tsmiling;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:}" image="tanya_smug.png" text="Tanya Smug" order="29">
+		<alt>t:-}</alt>
+		<alt>tsmug;</alt>
+	</emoticon>
+	<emoticon defaultKey="tB|" image="tanya_sunglasses.png" text="Tanya Sunglasses" order="30">
+		<alt>tB-|</alt>
+		<alt>tdealwithit;</alt>
+		<alt>tsunglasses;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:o" image="tanya_surprised.png" text="Tanya Surprised" order="31">
+		<alt>t:-o</alt>
+		<alt>tsurprised;</alt>
+	</emoticon>
+	<emoticon defaultKey="t=-=" image="tanya_suspicious.png" text="Tanya Suspicious" order="32">
+		<alt>t=_=</alt>
+		<alt>tsuspicious;</alt>
+	</emoticon>
+	<emoticon defaultKey="tthumbsssup" image="tanya_thumbsssup.png" text="Tanya Three Thumbs Up" order="33">
+		<alt>tyesyesyes</alt>
+	</emoticon>
+	<emoticon defaultKey="tthumbsup" image="tanya_thumbsup.png" text="Tanya Thumbs Up" order="34">
+		<alt>tyes</alt>
+	</emoticon>
+	<emoticon defaultKey="t|(" image="tanya_tired.png" text="Tanya Tired" order="35">
+		<alt>t|-(</alt>
+		<alt>ttired;</alt>
+	</emoticon>
+	<emoticon defaultKey="tthumbssup" image="tanya_thumbssup.png" text="Tanya Two Thumbs Up" order="36">
+		<alt>tyesyes</alt>
+	</emoticon>
+	<emoticon defaultKey="t:-\" image="tanya_undecided.png" text="Tanya Undecided" order="37">
+		<alt>t:\</alt>
+		<alt>t:/</alt>
+		<alt>t:-/</alt>
+		<alt>tundecided;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:-|" image="tanya_unimpressed.png" text="Tanya Unimpressed" order="38">
+		<alt>t:|</alt>
+		<alt>t-_-</alt>
+		<alt>tunimpressed;</alt>
+	</emoticon>
+	<emoticon defaultKey="t|P" image="tanya_unimpressedtongue.png" text="Tanya Unimpressed Tongue" order="39">
+		<alt>t|-P</alt>
+		<alt>tunimpressedtongue;</alt>
+	</emoticon>
+	<emoticon defaultKey="t:O" image="tanya_wow.png" text="Tanya Wow" order="40">
+		<alt>t:-O</alt>
+		<alt>twow;</alt>
+	</emoticon>
+	<emoticon defaultKey="tx(" image="tanya_yuck.png" text="Tanya Yuck" order="41">
+		<alt>tx-(</alt>
+		<alt>tX(</alt>
+		<alt>tX-(</alt>
+		<alt>tyuck;</alt>
+	</emoticon>
+</emoticons>
