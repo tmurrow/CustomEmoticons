@@ -10,5 +10,6 @@ I've included a program to sort the xml file so that your emoticons can show up 
 - Run `OrganizeEmoticons.exe`
 - Enter the name of the file you wish to sort (`emoticonDefs.xml`)
 - According to the prompt, enter the first letter or two of your name
+ - If your name is not included, let me know and I'll add it!
 - Restart Jabber
 - Enjoy!
