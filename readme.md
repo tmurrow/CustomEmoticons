@@ -9,6 +9,7 @@
 I've included a program to sort the xml file so that your emoticons can show up at the top, for easier selecting in the emoticon picker box. If you'd like to sort your emoticons, follow these steps:
 - Run `OrganizeEmoticons.exe`
 - Enter the name of the file you wish to sort (`emoticonDefs.xml`)
+ - The program makes a backup of your file each time it's run, so you can revert to the previous version for whatever reason
 - According to the prompt, enter the first letter or two of your name
  - If your name is not included, let me know and I'll add it!
 - Restart Jabber
