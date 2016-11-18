@@ -65,7 +65,7 @@
 		<alt>tX-P</alt>
 		<alt>tloltongue;</alt>
 	</emoticon>
-	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="16">
+	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="15">
 		<alt>t:&lt;3-D*</alt>
 		<alt>tlovebarf;</alt>
 	</emoticon>
@@ -544,9 +544,61 @@
 	<emoticon defaultKey="mbr:-|" image="mattbr_unimpressed.png" text="Matt Unimpressed" order="137">
 		<alt>mbr:|</alt>
 	</emoticon>
-	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="138">
+	<emoticon defaultKey="animalcrossingtear;" image="meme_animalcrossingtear.png" text="Animal Crossing Tear" order="138">
+		<alt>crie;</alt>
 	</emoticon>
-	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="139">
+	<emoticon defaultKey="doh;" image="meme_homerdoh.png" text="Homer 'Doh" order="139">
+		<alt>'doh;</alt>
+	</emoticon>
+	<emoticon defaultKey="drool;" image="meme_homerdrool.png" text="Homer Drool" order="140">
+		<alt>homerdrool;</alt>
+	</emoticon>
+	<emoticon defaultKey="sideeye;" image="meme_sideeyechloe.png" text="Side Eyeing Chloe" order="141">
+		<alt>chloe;</alt>
+	</emoticon>
+	<emoticon defaultKey="nopity;" image="meme_smallestviolin.png" text="Smallest Violin" order="142">
+		<alt>smallestviolin;</alt>
+	</emoticon>
+	<emoticon defaultKey="thisisfine;" image="meme_thisisfine.png" text="This Is Fine" order="143">
+		<alt>i'mfine;</alt>
+	</emoticon>
+	<emoticon defaultKey="animalcrossingshaking;" image="gif_animalcrossingshaking.gif" text="Animal Crossing Shaking" order="144">
+		<alt>((animalcrossing))</alt>
+	</emoticon>
+	<emoticon defaultKey="catshaking;" image="gif_catshaking.gif" text="Cat Shaking" order="145">
+		<alt>((cat))</alt>
+	</emoticon>
+	<emoticon defaultKey="happybirthday;" image="gif_happybirthdayunicorns.gif" text="Happy Birthday" order="146">
+		<alt>HAPPYBIRTHDAY;</alt>
+		<alt>unicornbirthday;</alt>
+	</emoticon>
+	<emoticon defaultKey="kermitshaking;" image="gif_kermitshaking.gif" text="Kermit Shaking" order="147">
+		<alt>((kermit))</alt>
+	</emoticon>
+	<emoticon defaultKey="linkshaking;" image="gif_linkshaking.gif" text="Link Shaking" order="148">
+		<alt>((link))</alt>
+	</emoticon>
+	<emoticon defaultKey="oneeternitylater;" image="timecard_oneeternity.png" text="One Eternity Later" order="149">
+		<alt>aneternitylater;</alt>
+	</emoticon>
+	<emoticon defaultKey="severalbadpunslater;" image="timecard_severalbadpuns.png" text="Several Bad Puns Later" order="150">
+		<alt>badpunslater;</alt>
+	</emoticon>
+	<emoticon defaultKey="severaldayslater;" image="timecard_severaldays.png" text="Several Days Later" order="151">
+		<alt>dayspunslater;</alt>
+	</emoticon>
+	<emoticon defaultKey="thousandsoftearslater;" image="timecard_thousandsoftears.png" text="Thousands Of Tears Later" order="152">
+		<alt>manytearslater;</alt>
+	</emoticon>
+	<emoticon defaultKey="threehourslater;" image="timecard_3hours.png" text="Three Hours Later" order="153">
+		<alt>3hourslater;</alt>
+	</emoticon>
+	<emoticon defaultKey="twothousandyearslater;" image="timecard_2000years.png" text="Two Thousand Years Later" order="154">
+		<alt>2000yearslater;</alt>
+	</emoticon>
+	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="155">
+	</emoticon>
+	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="156">
 		<alt>/levelup</alt>
 	</emoticon>
 </emoticons>
