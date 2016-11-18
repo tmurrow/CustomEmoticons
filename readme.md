@@ -14,3 +14,5 @@ I've included a program to sort the xml file so that your emoticons can show up 
  - If your name is not included, let me know and I'll add it!
 - Restart Jabber
 - Enjoy!
+
+_Note: If you want to keep them organized, you'll probably have to organize after each pull_
