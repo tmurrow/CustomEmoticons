@@ -572,37 +572,44 @@
 	<emoticon defaultKey="catshaking;" image="gif_catshaking.gif" text="Cat Shaking" order="146">
 		<alt>((cat))</alt>
 	</emoticon>
-	<emoticon defaultKey="happybirthday;" image="gif_happybirthdayunicorns.gif" text="Happy Birthday" order="147">
+	<emoticon defaultKey="old;" image="gif_gettingold.gif" text="Getting Old" order="147">
+		<alt>gettingold;</alt>
+	</emoticon>
+	<emoticon defaultKey="happybirthday;" image="gif_happybirthdayunicorns.gif" text="Happy Birthday" order="148">
 		<alt>HAPPYBIRTHDAY;</alt>
 		<alt>unicornbirthday;</alt>
 	</emoticon>
-	<emoticon defaultKey="kermitshaking;" image="gif_kermitshaking.gif" text="Kermit Shaking" order="148">
+	<emoticon defaultKey="kermitshaking;" image="gif_kermitshaking.gif" text="Kermit Shaking" order="149">
 		<alt>((kermit))</alt>
 	</emoticon>
-	<emoticon defaultKey="linkshaking;" image="gif_linkshaking.gif" text="Link Shaking" order="149">
+	<emoticon defaultKey="linkshaking;" image="gif_linkshaking.gif" text="Link Shaking" order="150">
 		<alt>((link))</alt>
 	</emoticon>
-	<emoticon defaultKey="oneeternitylater;" image="timecard_oneeternity.png" text="One Eternity Later" order="150">
+	<emoticon defaultKey="homerbush;" image="gif_homerbush.gif" text="Homer Bush" order="150">
+	</emoticon>
+	<emoticon defaultKey="homerbushreverse;" image="gif_homerbushreverse.gif" text="Homer Bush Reverse" order="150">
+	</emoticon>
+	<emoticon defaultKey="oneeternitylater;" image="timecard_oneeternity.png" text="One Eternity Later" order="151">
 		<alt>aneternitylater;</alt>
 	</emoticon>
-	<emoticon defaultKey="severalbadpunslater;" image="timecard_severalbadpuns.png" text="Several Bad Puns Later" order="151">
+	<emoticon defaultKey="severalbadpunslater;" image="timecard_severalbadpuns.png" text="Several Bad Puns Later" order="152">
 		<alt>badpunslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="severaldayslater;" image="timecard_severaldays.png" text="Several Days Later" order="152">
+	<emoticon defaultKey="severaldayslater;" image="timecard_severaldays.png" text="Several Days Later" order="153">
 		<alt>dayspunslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="thousandsoftearslater;" image="timecard_thousandsoftears.png" text="Thousands Of Tears Later" order="153">
+	<emoticon defaultKey="thousandsoftearslater;" image="timecard_thousandsoftears.png" text="Thousands Of Tears Later" order="154">
 		<alt>manytearslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="threehourslater;" image="timecard_3hours.png" text="Three Hours Later" order="154">
+	<emoticon defaultKey="threehourslater;" image="timecard_3hours.png" text="Three Hours Later" order="155">
 		<alt>3hourslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="twothousandyearslater;" image="timecard_2000years.png" text="Two Thousand Years Later" order="155">
+	<emoticon defaultKey="twothousandyearslater;" image="timecard_2000years.png" text="Two Thousand Years Later" order="156">
 		<alt>2000yearslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="156">
+	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="157">
 	</emoticon>
-	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="157">
+	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="158">
 		<alt>/levelup</alt>
 	</emoticon>
 </emoticons>
