@@ -1,4 +1,6 @@
 # Custom Jabber Emoticons
+_Custom emoticons (made by me) for a few of my co-workers to use in Jabber, along with some common memes and gifs we like to use. Please don't use my artwork without my permission!_
+## Instructions
 - Clone this repository to:
  - `C:\Program Files (x86)\Cisco Systems\Cisco Jabber` (delete your CustomEmoticons folder first)
  - Or wherever you like, but you'll have to copy everything to either `...\Cisco Jabber\Emoticons` or `...\Cisco Jabber\CustomEmoticons` manually each time you pull
