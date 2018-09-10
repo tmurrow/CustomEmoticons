@@ -1,37 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <emoticons>
-	<emoticon defaultKey="t((tanya))" image="tanya_shaking.gif" text="Tanya Shaking" order="1">
-		<alt>tshaking;</alt>
-	</emoticon>
-	<emoticon defaultKey="t0:)" image="tanya_angel.png" text="Tanya Angel" order="1">
-		<alt>t0:-)</alt>
-		<alt>tangel;</alt>
-	</emoticon>
 	<emoticon defaultKey="t&gt;:O" image="tanya_angry.png" text="Tanya Angry" order="2">
 		<alt>t&gt;:-O</alt>
 		<alt>tangry;</alt>
 	</emoticon>
-	<emoticon defaultKey="t8D" image="tanya_awesome.png" text="Tanya Awesome" order="3">
-		<alt>t8-D</alt>
-		<alt>tawesome;</alt>
-	</emoticon>
-	<emoticon defaultKey="t|:P" image="tanya_blanktongue.png" text="Tanya Blank Tongue" order="4">
-		<alt>t|:-P</alt>
-		<alt>tblanktongue;</alt>
-	</emoticon>
-	<emoticon defaultKey="t&lt;:D" image="tanya_christmas.png" text="Tanya Christmas" order="5">
-		<alt>t&lt;:-D</alt>
-		<alt>tchristmas;</alt>
-	</emoticon>
-	<emoticon defaultKey="tcold;" image="tanya_cold.png" text="Tanya Cold" order="6">
+	<emoticon defaultKey="tcold;" image="tanya_cold.png" text="Tanya Cold" order="5">
 		<alt>tbrr;</alt>
 		<alt>tfreezing;</alt>
 	</emoticon>
-	<emoticon defaultKey="tO_o" image="tanya_confused.png" text="Tanya Confused" order="7">
-		<alt>to_O</alt>
-		<alt>tconfused;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:,(" image="tanya_crying.png" text="Tanya Crying" order="8">
+	<emoticon defaultKey="t:,(" image="tanya_crying.png" text="Tanya Crying" order="7">
 		<alt>t:-,(</alt>
 		<alt>tx,(</alt>
 		<alt>tx-,(</alt>
@@ -39,297 +16,683 @@
 		<alt>tX-,(</alt>
 		<alt>tcrying;</alt>
 	</emoticon>
-	<emoticon defaultKey="t&gt;:D" image="tanya_evilsmile.png" text="Tanya Evil Smile" order="9">
+	<emoticon defaultKey="t&gt;:D" image="tanya_evilsmile.png" text="Tanya Evil Smile" order="8">
 		<alt>t&gt;:-D</alt>
 		<alt>tevil;</alt>
 	</emoticon>
-	<emoticon defaultKey="t:D" image="tanya_excited.png" text="Tanya Excited" order="10">
+	<emoticon defaultKey="t:D" image="tanya_excited.png" text="Tanya Excited" order="9">
 		<alt>t:-D</alt>
 		<alt>texcited;</alt>
 	</emoticon>
-	<emoticon defaultKey="t&gt;:(" image="tanya_frown.png" text="Tanya Frown" order="11">
+	<emoticon defaultKey="t&gt;:(" image="tanya_frown.png" text="Tanya Frown" order="10">
 		<alt>t&gt;:-(</alt>
 		<alt>tfrown;</alt>
 	</emoticon>
-	<emoticon defaultKey="t^_^" image="tanya_happy.png" text="Tanya Happy" order="12">
+	<emoticon defaultKey="t^_^" image="tanya_happy.png" text="Tanya Happy" order="11">
 		<alt>t^-^</alt>
 		<alt>t^.^</alt>
 		<alt>thappy;</alt>
 	</emoticon>
-	<emoticon defaultKey="tidea;" image="tanya_idea.png" text="Tanya Idea" order="13">
-		<alt>t!:O</alt>
-		<alt>t!:-O</alt>
-	</emoticon>
-	<emoticon defaultKey="txD" image="tanya_laughing.png" text="Tanya Laughing" order="14">
+	<emoticon defaultKey="txD" image="tanya_laughing.png" text="Tanya Laughing" order="13">
 		<alt>tXD</alt>
 		<alt>tlaughing;</alt>
 	</emoticon>
-	<emoticon defaultKey="tx)" image="tanya_lol.png" text="Tanya Lol" order="15">
-		<alt>tx-)</alt>
-		<alt>tX)</alt>
-		<alt>tX-)</alt>
-		<alt>tlol;</alt>
+	<emoticon defaultKey="&lt;3D" image="tanya_love.png" text="Tanya Love" order="15">
+		<alt>t:&lt;3-D</alt>
+		<alt>tlove;</alt>
 	</emoticon>
-	<emoticon defaultKey="txP" image="tanya_loltongue.png" text="Tanya Lol Tongue" order="16">
-		<alt>tx-P</alt>
-		<alt>tXP</alt>
-		<alt>tX-P</alt>
-		<alt>tloltongue;</alt>
-	</emoticon>
-	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="17">
-		<alt>t:&lt;3-D*</alt>
-		<alt>tlovebarf;</alt>
-	</emoticon>
-	<emoticon defaultKey="&lt;3D*" image="tanya_lovebarf.png" text="Tanya Love Rainbows" order="18">
-		<alt>t:&lt;3-D*</alt>
-		<alt>tlovebarf;</alt>
-	</emoticon>
-	<emoticon defaultKey="tc:" image="tanya_mini_smile.png" text="Tanya Mini Smile" order="19">
-		<alt>tc-:</alt>
-		<alt>tminismile;</alt>
-	</emoticon>
-	<emoticon defaultKey="t&gt;:)" image="tanya_mischievous.png" text="Tanya Mischievous" order="20">
+	<emoticon defaultKey="t&gt;:)" image="tanya_mischievous.png" text="Tanya Mischievous" order="18">
 		<alt>t&gt;:-)</alt>
 		<alt>tmischievous;</alt>
 	</emoticon>
-	<emoticon defaultKey="t:|" image="tanya_neutral.png" text="Tanya Neutral" order="21">
+	<emoticon defaultKey="t:|" image="tanya_neutral.png" text="Tanya Neutral" order="19">
 		<alt>t:-|</alt>
 		<alt>tneutral;</alt>
 	</emoticon>
-	<emoticon defaultKey="tx_x" image="tanya_neverunsee.png" text="Tanya Never Unsee" order="22">
+	<emoticon defaultKey="tx_x" image="tanya_neverunsee.png" text="Tanya Never Unsee" order="20">
 		<alt>tX_X</alt>
 		<alt>tneverunsee;</alt>
 	</emoticon>
-	<emoticon defaultKey="tD:" image="tanya_ohno.png" text="Tanya Oh No" order="23">
+	<emoticon defaultKey="tD:" image="tanya_ohno.png" text="Tanya Oh No" order="21">
 		<alt>tD-:</alt>
 		<alt>tohno;</alt>
 	</emoticon>
-	<emoticon defaultKey="t8o" image="tanya_ooo.png" text="Tanya Ooo" order="24">
-		<alt>t8-o</alt>
-		<alt>tooo;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:))" image="tanya_optimistic.png" text="Tanya Optimistic" order="25">
-		<alt>t:-))</alt>
-		<alt>toptimistic;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:))" image="tanya_optimistic.png" text="Tanya Optimistic" order="26">
-		<alt>t:-))</alt>
-		<alt>toptimistic;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:(" image="tanya_sad.png" text="Tanya Sad" order="27">
+	<emoticon defaultKey="t:(" image="tanya_sad.png" text="Tanya Sad" order="25">
 		<alt>t:-(</alt>
 		<alt>tsad;</alt>
 	</emoticon>
-	<emoticon defaultKey="tshiftyeyes;" image="tanya_shiftyeyes.gif" text="Tanya Shifty" order="28">
+	<emoticon defaultKey="t((tanya))" image="tanya_shaking.gif" text="Tanya Shaking" order="26">
+		<alt>tshaking;</alt>
 	</emoticon>
-	<emoticon defaultKey="t&lt;_&lt;" image="tanya_shiftyleft.png" text="Tanya Shifty Left" order="29">
-		<alt>t&lt;.&lt;</alt>
-		<alt>tshiftyleft;</alt>
+	<emoticon defaultKey="tshiftyeyes;" image="tanya_shiftyeyes.gif" text="Tanya Shifty" order="27">
 	</emoticon>
-	<emoticon defaultKey="t&gt;_&gt;" image="tanya_shiftyright.png" text="Tanya Shifty Right" order="30">
-		<alt>t&gt;.&gt;</alt>
-		<alt>tshiftyright;</alt>
-	</emoticon>
-	<emoticon defaultKey="toops;" image="tanya_shiftyrightteeth.png" text="Tanya Shifty Teeth" order="31">
+	<emoticon defaultKey="toops;" image="tanya_shiftyrightteeth.png" text="Tanya Shifty Teeth" order="30">
 		<alt>t&gt;=&gt;</alt>
 	</emoticon>
-	<emoticon defaultKey="tsleeping;" image="tanya_sleeping.gif" text="Tanya Sleeping" order="32">
+	<emoticon defaultKey="tsleeping;" image="tanya_sleeping.gif" text="Tanya Sleeping" order="31">
 		<alt>t-.-</alt>
 		<alt>t-o-</alt>
 		<alt>tsleepy;</alt>
 	</emoticon>
-	<emoticon defaultKey="t:)" image="tanya_smile.png" text="Tanya Smile" order="33">
+	<emoticon defaultKey="t:)" image="tanya_smile.png" text="Tanya Smile" order="32">
 		<alt>t:-)</alt>
 		<alt>tsmile;</alt>
 	</emoticon>
-	<emoticon defaultKey="t:P" image="tanya_smiletongue.png" text="Tanya Smile Tongue" order="34">
-		<alt>t:-P</alt>
-		<alt>tsmiletongue;</alt>
-	</emoticon>
-	<emoticon defaultKey="t;)" image="tanya_smiling.gif" text="Tanya Smiling" order="35">
-		<alt>t;-)</alt>
-		<alt>tsmiling;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:}" image="tanya_smug.png" text="Tanya Smug" order="36">
+	<emoticon defaultKey="t:}" image="tanya_smug.png" text="Tanya Smug" order="34">
 		<alt>t:-}</alt>
 		<alt>tsmug;</alt>
 	</emoticon>
-	<emoticon defaultKey="tB|" image="tanya_sunglasses.png" text="Tanya Sunglasses" order="37">
+	<emoticon defaultKey="tB|" image="tanya_sunglasses.png" text="Tanya Sunglasses" order="35">
 		<alt>tB-|</alt>
 		<alt>tdealwithit;</alt>
 		<alt>tsunglasses;</alt>
 	</emoticon>
-	<emoticon defaultKey="t:o" image="tanya_surprised.png" text="Tanya Surprised" order="38">
+	<emoticon defaultKey="t:o" image="tanya_surprised.png" text="Tanya Surprised" order="36">
 		<alt>t:-o</alt>
 		<alt>tsurprised;</alt>
 	</emoticon>
-	<emoticon defaultKey="t=-=" image="tanya_suspicious.png" text="Tanya Suspicious" order="39">
+	<emoticon defaultKey="t=-=" image="tanya_suspicious.png" text="Tanya Suspicious" order="37">
 		<alt>t=_=</alt>
 		<alt>tsuspicious;</alt>
 	</emoticon>
-	<emoticon defaultKey="tthumbsssup" image="tanya_thumbsssup.png" text="Tanya Three Thumbs Up" order="40">
+	<emoticon defaultKey="tthumbsssup" image="tanya_thumbsssup.png" text="Tanya Three Thumbs Up" order="38">
 		<alt>tyesyesyes</alt>
 	</emoticon>
-	<emoticon defaultKey="tthumbsup" image="tanya_thumbsup.png" text="Tanya Thumbs Up" order="41">
+	<emoticon defaultKey="tthumbsup" image="tanya_thumbsup.png" text="Tanya Thumbs Up" order="39">
 		<alt>tyes</alt>
 	</emoticon>
-	<emoticon defaultKey="t|(" image="tanya_tired.png" text="Tanya Tired" order="42">
+	<emoticon defaultKey="t|(" image="tanya_tired.png" text="Tanya Tired" order="40">
 		<alt>t|-(</alt>
 		<alt>ttired;</alt>
 	</emoticon>
-	<emoticon defaultKey="tthumbssup" image="tanya_thumbssup.png" text="Tanya Two Thumbs Up" order="43">
+	<emoticon defaultKey="tthumbssup" image="tanya_thumbssup.png" text="Tanya Two Thumbs Up" order="41">
 		<alt>tyesyes</alt>
 	</emoticon>
-	<emoticon defaultKey="t:-\" image="tanya_undecided.png" text="Tanya Undecided" order="44">
+	<emoticon defaultKey="t:-\" image="tanya_undecided.png" text="Tanya Undecided" order="42">
 		<alt>t:\</alt>
 		<alt>t:/</alt>
 		<alt>t:-/</alt>
 		<alt>tundecided;</alt>
 	</emoticon>
-	<emoticon defaultKey="t-_-" image="tanya_unimpressed.png" text="Tanya Unimpressed" order="45">
+	<emoticon defaultKey="t-_-" image="tanya_unimpressed.png" text="Tanya Unimpressed" order="43">
 		<alt>tunimpressed;</alt>
 	</emoticon>
-	<emoticon defaultKey="t|P" image="tanya_unimpressedtongue.png" text="Tanya Unimpressed Tongue" order="46">
-		<alt>t|-P</alt>
-		<alt>tunimpressedtongue;</alt>
-	</emoticon>
-	<emoticon defaultKey="t:O" image="tanya_wow.png" text="Tanya Wow" order="47">
+	<emoticon defaultKey="t:O" image="tanya_wow.png" text="Tanya Wow" order="45">
 		<alt>t:-O</alt>
 		<alt>twow;</alt>
 	</emoticon>
-	<emoticon defaultKey="tx(" image="tanya_yuck.png" text="Tanya Yuck" order="48">
+	<emoticon defaultKey="tx(" image="tanya_yuck.png" text="Tanya Yuck" order="46">
 		<alt>tx-(</alt>
 		<alt>tX(</alt>
 		<alt>tX-(</alt>
 		<alt>tyuck;</alt>
 	</emoticon>
-	<emoticon defaultKey="b&gt;:O" image="bill_angry.png" text="Bill Angry" order="49">
-		<alt>b&gt;:-O</alt>
+	<emoticon defaultKey="animalcrossingtear;" image="meme_animalcrossingtear.png" text="Animal Crossing Tear" order="47">
+		<alt>crie;</alt>
 	</emoticon>
-	<emoticon defaultKey="b:D" image="bill_excited.png" text="Bill Excited" order="50">
-		<alt>b:-D</alt>
+	<emoticon defaultKey="sideeye;" image="meme_sideeyechloe.png" text="Side Eyeing Chloe" order="48">
+		<alt>chloe;</alt>
 	</emoticon>
-	<emoticon defaultKey="b&gt;:(" image="bill_frown.png" text="Bill Frown" order="51">
-		<alt>b&gt;:-(</alt>
+	<emoticon defaultKey="nopity;" image="meme_smallestviolin.png" text="Smallest Violin" order="49">
+		<alt>smallestviolin;</alt>
 	</emoticon>
-	<emoticon defaultKey="b^_^" image="bill_happy.png" text="Bill Happy" order="52">
-		<alt>b^-^</alt>
-		<alt>b^.^</alt>
+	<emoticon defaultKey="tails;" image="meme_tails.jpg" text="Tails" order="50">
 	</emoticon>
-	<emoticon defaultKey="bxD" image="bill_laughing.png" text="Bill Laughing" order="53">
-		<alt>bXD</alt>
+	<emoticon defaultKey="thisisfine;" image="meme_thisisfine.png" text="This Is Fine" order="51">
+		<alt>i'mfine;</alt>
 	</emoticon>
-	<emoticon defaultKey="bx)" image="bill_lol.png" text="Bill Lol" order="54">
-		<alt>bx-)</alt>
-		<alt>bX)</alt>
-		<alt>bX-)</alt>
+	<emoticon defaultKey="animalcrossingshaking;" image="gif_animalcrossingshaking.gif" text="Animal Crossing Shaking" order="52">
+		<alt>((animalcrossing))</alt>
 	</emoticon>
-	<emoticon defaultKey="b:(" image="bill_sad.png" text="Bill Sad" order="55">
-		<alt>b:-(</alt>
+	<emoticon defaultKey="catshaking;" image="gif_catshaking.gif" text="Cat Shaking" order="53">
+		<alt>((cat))</alt>
 	</emoticon>
-	<emoticon defaultKey="b&lt;_&lt;" image="bill_shiftyleft.png" text="Bill Shifty Left" order="56">
-		<alt>b&lt;.&lt;</alt>
+	<emoticon defaultKey="old;" image="gif_gettingold.gif" text="Getting Old" order="54">
+		<alt>gettingold;</alt>
 	</emoticon>
-	<emoticon defaultKey="b&gt;_&gt;" image="bill_shiftyright.png" text="Bill Shifty Right" order="57">
-		<alt>b&gt;.&gt;</alt>
+	<emoticon defaultKey="happybirthday;" image="gif_happybirthdayunicorns.gif" text="Happy Birthday" order="55">
+		<alt>HAPPYBIRTHDAY;</alt>
+		<alt>unicornbirthday;</alt>
 	</emoticon>
-	<emoticon defaultKey="b:)" image="bill_smile.png" text="Bill Smile" order="58">
-		<alt>b:-)</alt>
+	<emoticon defaultKey="homerbush;" image="gif_homerbush.gif" text="Homer Bush" order="56">
 	</emoticon>
-	<emoticon defaultKey="b:o" image="bill_surprised.png" text="Bill Surprised" order="59">
-		<alt>b:-o</alt>
+	<emoticon defaultKey="homerbushreverse;" image="gif_homerbushreverse.gif" text="Homer Bush Reverse" order="57">
 	</emoticon>
-	<emoticon defaultKey="bthumbsup" image="bill_thumbsup.png" text="Bill Thumbs Up" order="60">
-		<alt>byes</alt>
+	<emoticon defaultKey="kermitshaking;" image="gif_kermitshaking.gif" text="Kermit Shaking" order="58">
+		<alt>((kermit))</alt>
 	</emoticon>
-	<emoticon defaultKey="b|(" image="bill_tired.png" text="Bill Tired" order="61">
-		<alt>b|-(</alt>
+	<emoticon defaultKey="linkshaking;" image="gif_linkshaking.gif" text="Link Shaking" order="59">
+		<alt>((link))</alt>
 	</emoticon>
-	<emoticon defaultKey="b:-\" image="bill_undecided.png" text="Bill Undecided" order="62">
-		<alt>b:\</alt>
-		<alt>b:/</alt>
-		<alt>b:-/</alt>
+	<emoticon defaultKey="oneeternitylater;" image="timecard_oneeternity.png" text="One Eternity Later" order="60">
+		<alt>aneternitylater;</alt>
 	</emoticon>
-	<emoticon defaultKey="b:-|" image="bill_unimpressed.png" text="Bill Unimpressed" order="63">
-		<alt>b:|</alt>
+	<emoticon defaultKey="severalbadpunslater;" image="timecard_severalbadpuns.png" text="Several Bad Puns Later" order="61">
+		<alt>badpunslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="b:O" image="bill_wow.png" text="Bill Wow" order="64">
-		<alt>b:-O</alt>
+	<emoticon defaultKey="severaldayslater;" image="timecard_severaldays.png" text="Several Days Later" order="62">
+		<alt>dayspunslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="do&gt;:O" image="dom_angry.png" text="Dom Angry" order="65">
-		<alt>do&gt;:-O</alt>
+	<emoticon defaultKey="thousandsoftearslater;" image="timecard_thousandsoftears.png" text="Thousands Of Tears Later" order="63">
+		<alt>manytearslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="do8D" image="dom_caffeine.png" text="Dom Caffeine" order="66">
-		<alt>do8-D</alt>
+	<emoticon defaultKey="threehourslater;" image="timecard_3hours.png" text="Three Hours Later" order="64">
+		<alt>3hourslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="do:D" image="dom_excited.png" text="Dom Excited" order="67">
-		<alt>do:-D</alt>
+	<emoticon defaultKey="twothousandyearslater;" image="timecard_2000years.png" text="Two Thousand Years Later" order="65">
+		<alt>2000yearslater;</alt>
 	</emoticon>
-	<emoticon defaultKey="do&gt;:(" image="dom_frown.png" text="Dom Frown" order="68">
-		<alt>do&gt;:-(</alt>
+	<emoticon defaultKey=":clock" image="default_alarm.png" text="Alarm" order="66">
+		<alt>(clock)</alt>
+		<alt>(Clock)</alt>
+		<alt>(CLOCK)</alt>
+		<alt>(alarm)</alt>
+		<alt>(Alarm)</alt>
+		<alt>(ALARM)</alt>
 	</emoticon>
-	<emoticon defaultKey="do^_^" image="dom_happy.png" text="Dom Happy" order="69">
-		<alt>do^-^</alt>
-		<alt>do^.^</alt>
+	<emoticon defaultKey="0:)" image="default_angel.png" text="Angel" order="67">
+		<alt>(angel)</alt>
+		<alt>(Angel)</alt>
+		<alt>(ANGEL)</alt>
+		<alt>0:-)</alt>
+		<alt>o:-)</alt>
+		<alt>O:-)</alt>
+		<alt>o:)</alt>
+		<alt>O:)</alt>
 	</emoticon>
-	<emoticon defaultKey="doxD" image="dom_laughing.png" text="Dom Laughing" order="70">
-		<alt>doXD</alt>
+	<emoticon defaultKey="&gt;:(" image="default_angry.png" text="Angry" order="68">
+		<alt>(angry)</alt>
+		<alt>(Angry)</alt>
+		<alt>(ANGRY)</alt>
+		<alt>&gt;:-(</alt>
 	</emoticon>
-	<emoticon defaultKey="do:(" image="dom_sad.png" text="Dom Sad" order="71">
-		<alt>do:-(</alt>
+	<emoticon defaultKey="(angryface)" image="default_img_angry.gif" text="Angry" order="69">
+		<alt>(Angryface)</alt>
+		<alt>(ANGRYFACE)</alt>
 	</emoticon>
-	<emoticon defaultKey="do&lt;_&lt;" image="dom_shiftyleft.png" text="Dom Shifty Left" order="72">
-		<alt>do&lt;.&lt;</alt>
+	<emoticon defaultKey="(feelingawkward)" image="default_img_awkward.gif" text="Awkward" order="70">
+		<alt>(Feelingawkward)</alt>
+		<alt>(FEELINGAWKWARD)</alt>
 	</emoticon>
-	<emoticon defaultKey="do&gt;_&gt;" image="dom_shiftyright.png" text="Dom Shifty Right" order="73">
-		<alt>do&gt;.&gt;</alt>
+	<emoticon defaultKey="(beer)" image="default_beer.png" text="beer" order="71">
+		<alt>(Beer)</alt>
+		<alt>(BEER)</alt>
 	</emoticon>
-	<emoticon defaultKey="do:)" image="dom_smile.png" text="Dom Smile" order="74">
-		<alt>do:-)</alt>
+	<emoticon defaultKey=":o" image="default_bigsurprise.png" text="Big surprise" order="72">
+		<alt>:O</alt>
+		<alt>:-o</alt>
+		<alt>:-O</alt>
 	</emoticon>
-	<emoticon defaultKey="do:o" image="dom_surprised.png" text="Dom Surprised" order="75">
-		<alt>do:-o</alt>
+	<emoticon defaultKey=":-{" image="default_blank.png" text="Blank" order="73">
+		<alt>:{</alt>
 	</emoticon>
-	<emoticon defaultKey="dothumbsup" image="dom_thumbsup.png" text="Dom Thumbs Up" order="76">
-		<alt>doyes</alt>
+	<emoticon defaultKey=":[" image="default_blush.png" text="Blush" order="74">
+		<alt>(blush)</alt>
+		<alt>(Blush)</alt>
+		<alt>(BLUSH)</alt>
+		<alt>:-[</alt>
 	</emoticon>
-	<emoticon defaultKey="do|(" image="dom_tired.png" text="Dom Tired" order="77">
-		<alt>do|-(</alt>
+	<emoticon defaultKey="&lt;/3" image="default_brokenheart.png" text="Broken Heart" order="75">
+		<alt>(brokenheart)</alt>
 	</emoticon>
-	<emoticon defaultKey="do:-\" image="dom_undecided.png" text="Dom Undecided" order="78">
-		<alt>do:\</alt>
-		<alt>do:/</alt>
-		<alt>do:-/</alt>
+	<emoticon defaultKey=":burger" image="default_burger.png" text="Burger" order="76">
+		<alt>(burger)</alt>
 	</emoticon>
-	<emoticon defaultKey="do:-|" image="dom_unimpressed.png" text="Dom Unimpressed" order="79">
-		<alt>do:|</alt>
+	<emoticon defaultKey="(^)" image="default_cake.png" text="Cake" order="77">
+		<alt>(cake)</alt>
+		<alt>(Cake)</alt>
+		<alt>(CAKE)</alt>
 	</emoticon>
-	<emoticon defaultKey="do:O" image="dom_wow.png" text="Dom Wow" order="80">
-		<alt>do:-O</alt>
+	<emoticon defaultKey=":callme" image="default_callme.png" text="callme" order="78">
+		<alt>:telephone</alt>
 	</emoticon>
-	<emoticon defaultKey="mO:)" image="michael_angel.png" text="Michael Angel" order="81">
+	<emoticon defaultKey="(confetti)" image="default_img_celebrate.gif" text="Celebrate" order="79">
+		<alt>(Confetti)</alt>
+		<alt>(CONFETTI)</alt>
+	</emoticon>
+	<emoticon defaultKey=":balloon" image="default_celebration.png" text="Celebration" order="80">
+		<alt>(balloon)</alt>
+		<alt>(Balloon)</alt>
+		<alt>(BALLOON)</alt>
+		<alt>(celebrate)</alt>
+		<alt>(Celebrate)</alt>
+		<alt>(CELEBRATE)</alt>
+	</emoticon>
+	<emoticon defaultKey="(chuckle)" image="default_img_chuckle.gif" text="Chuckle" order="81">
+		<alt>(Chuckle)</alt>
+		<alt>(CHUCKLE)</alt>
+	</emoticon>
+	<emoticon defaultKey="(claphands)" image="default_ic_emoticon_clapping_hands.png" text="Clapping hands" order="82">
+		<alt>（ClapHands）</alt>
+	</emoticon>
+	<emoticon defaultKey="(claps)" image="default_img_claps.gif" text="Claps" order="83">
+		<alt>(Claps)</alt>
+		<alt>(CLAPS)</alt>
+	</emoticon>
+	<emoticon defaultKey="=.=" image="default_closed_to_the_world.png" text="Closed eyes" order="84">
+	</emoticon>
+	<emoticon defaultKey="(cloud)" image="default_ic_emoticon_cloud.png" text="Cloud" order="85">
+		<alt>(Cloud)</alt>
+		<alt>(cloudy)</alt>
+		<alt>(Cloudy)</alt>
+	</emoticon>
+	<emoticon defaultKey="(rain)" image="default_ic_emoticon_rain.png" text="Cloud with rain" order="86">
+		<alt>(Rain)</alt>
+		<alt>(rainy)</alt>
+		<alt>(Rainy)</alt>
+	</emoticon>
+	<emoticon defaultKey="C(_)" image="default_coffee.png" text="Coffee" order="87">
+		<alt>(coffee)</alt>
+		<alt>(Coffee)</alt>
+		<alt>(COFFEE)</alt>
+		<alt>c(_)</alt>
+	</emoticon>
+	<emoticon defaultKey="(comingfist)" image="default_ic_emoticon_coming_fist.png" text="Coming fist" order="88">
+		<alt>(Comingfist)</alt>
+	</emoticon>
+	<emoticon defaultKey="B)" image="default_cool.png" text="Cool" order="89">
+		<alt>(cool)</alt>
+		<alt>(Cool)</alt>
+		<alt>(COOL)</alt>
+		<alt>B-)</alt>
+		<alt>8-)</alt>
+	</emoticon>
+	<emoticon defaultKey="(beingcool)" image="default_img_cool.gif" text="Cool" order="90">
+		<alt>(Beingcool)</alt>
+		<alt>(BEINGCOOL)</alt>
+	</emoticon>
+	<emoticon defaultKey="X-0" image="default_crazy.png" text="Crazy" order="91">
+	</emoticon>
+	<emoticon defaultKey="(beingcrazy)" image="default_img_crazy.gif" text="Crazy" order="92">
+		<alt>(Beingcrazy)</alt>
+		<alt>(BEINGCRAZY)</alt>
+	</emoticon>
+	<emoticon defaultKey="(cryoutloud)" image="default_img_cry.gif" text="Cry" order="93">
+		<alt>(Cryoutloud)</alt>
+		<alt>(CRYOUTLOUD)</alt>
+	</emoticon>
+	<emoticon defaultKey=":'(" image="default_crying.png" text="Crying" order="94">
+		<alt>:'-(</alt>
+		<alt>T_T</alt>
+		<alt>T.T</alt>
+	</emoticon>
+	<emoticon defaultKey=":'-)" image="default_crying-laugh.png" text="Crying laugh" order="95">
+	</emoticon>
+	<emoticon defaultKey="*-*" image="default_dazed.png" text="Dazed" order="96">
+		<alt>*_*</alt>
+	</emoticon>
+	<emoticon defaultKey="x_x" image="default_dead.png" text="Dead" order="97">
+		<alt>X_X</alt>
+	</emoticon>
+	<emoticon defaultKey="(picknose)" image="default_ic_emoticon_dig_nostril.png" text="Dig Nostril" order="98">
+		<alt>(Picknose)</alt>
+	</emoticon>
+	<emoticon defaultKey="|:-\" image="default_disaproval.png" text="Disapproval" order="99">
+		<alt>X:-/</alt>
+		<alt>|:|</alt>
+		<alt>(disapproval)</alt>
+	</emoticon>
+	<emoticon defaultKey="(dizzy)" image="default_img_dizzy.gif" text="Dizzy" order="100">
+		<alt>(Dizzy)</alt>
+		<alt>(DIZZY)</alt>
+	</emoticon>
+	<emoticon defaultKey="(drink)" image="default_drink.png" text="drink" order="101">
+		<alt>(Drink)</alt>
+		<alt>(DRINK)</alt>
+	</emoticon>
+	<emoticon defaultKey=":duck" image="default_duck.png" text="duck" order="102">
+		<alt>(duck)</alt>
+		<alt>(Duck)</alt>
+		<alt>(DUCK)</alt>
+	</emoticon>
+	<emoticon defaultKey="(egg)" image="default_egg.png" text="egg" order="103">
+		<alt>(Egg)</alt>
+		<alt>(EGG)</alt>
+	</emoticon>
+	<emoticon defaultKey="(facepalm)" image="default_ic_emoticon_facepalm.png" text="Facepalm" order="104">
+		<alt>(Facepalm)</alt>
+	</emoticon>
+	<emoticon defaultKey="(speechless)" image="default_img_speechless.gif" text="Feeling speechless" order="105">
+		<alt>(Speechless)</alt>
+		<alt>(SPEECHLESS)</alt>
+	</emoticon>
+	<emoticon defaultKey="(fire)" image="default_ic_emoticon_fire.png" text="Fire" order="106">
+		<alt>(Fire)</alt>
+	</emoticon>
+	<emoticon defaultKey=":fireworks" image="default_fireworks.png" text="Fireworks" order="107">
+		<alt>(fireworks)</alt>
+		<alt>(Fireworks)</alt>
+		<alt>(FIREWORKS)</alt>
+	</emoticon>
+	<emoticon defaultKey="(fist)" image="default_fist.png" text="Fist" order="108">
+		<alt>(Fist)</alt>
+	</emoticon>
+	<emoticon defaultKey="(frown)" image="default_img_frown.gif" text="Frown" order="109">
+		<alt>(Frown)</alt>
+		<alt>(FROWN)</alt>
+	</emoticon>
+	<emoticon defaultKey="(wavehand)" image="default_img_greet.gif" text="Greet" order="110">
+		<alt>(Wavehand)</alt>
+		<alt>(WAVEHAND)</alt>
+	</emoticon>
+	<emoticon defaultKey=":D" image="default_grin.png" text="Grin" order="111">
+		<alt>:-D</alt>
+	</emoticon>
+	<emoticon defaultKey="(raisehand)" image="default_ic_emoticon_handup.png" text="Hand up" order="112">
+		<alt>(RaiseHand)</alt>
+	</emoticon>
+	<emoticon defaultKey="&lt;3" image="default_heart.png" text="Heart" order="113">
+		<alt>(heart)</alt>
+	</emoticon>
+	<emoticon defaultKey="(highfive)" image="default_ic_emoticon_highfive.png" text="High five" order="114">
+		<alt>(HighFive)</alt>
+	</emoticon>
+	<emoticon defaultKey="(lightening)" image="default_ic_emoticon_flash.png" text="High Voltage" order="115">
+		<alt>(Lightening)</alt>
+	</emoticon>
+	<emoticon defaultKey=":wfh" image="default_WFH.png" text="Home" order="116">
+		<alt>(wfh)</alt>
+	</emoticon>
+	<emoticon defaultKey="(burstintotears)" image="default_img_hurt.gif" text="Hurt" order="117">
+		<alt>(Burstintotears)</alt>
+		<alt>(BURSTINTOTEARS)</alt>
+	</emoticon>
+	<emoticon defaultKey=":idea" image="default_Idea.png" text="Idea" order="118">
+		<alt>(idea)</alt>
+	</emoticon>
+	<emoticon defaultKey=":jabber" image="default_jabberemoticon.png" text="Jabber" order="119">
+		<alt>(jabber)</alt>
+	</emoticon>
+	<emoticon defaultKey="(:kevin)" image="default_kevin.png" text="Kevin" order="120">
+	</emoticon>
+	<emoticon defaultKey=":*" image="default_kiss.png" text="Kiss" order="121">
+		<alt>(kiss)</alt>
+		<alt>(Kiss)</alt>
+		<alt>(KISS)</alt>
+		<alt>:-*</alt>
+	</emoticon>
+	<emoticon defaultKey=":koala" image="default_koala.png" text="Koala" order="122">
+		<alt>(koala)</alt>
+		<alt>(Koala)</alt>
+		<alt>(KOALA)</alt>
+	</emoticon>
+	<emoticon defaultKey="XD" image="default_LOL.png" text="LOL" order="123">
+		<alt>=D</alt>
+	</emoticon>
+	<emoticon defaultKey="(laughoutloud)" image="default_img_lol.gif" text="LOL" order="124">
+		<alt>(Laughoutloud)</alt>
+		<alt>(LAUGHOUTLOUD)</alt>
+	</emoticon>
+	<emoticon defaultKey="(eyeswithlove)" image="default_img_love.gif" text="Love" order="125">
+		<alt>(Eyeswithlove)</alt>
+		<alt>(EYESWITHLOVE)</alt>
+	</emoticon>
+	<emoticon defaultKey="(*_*)" image="default_love-at-first-sight.png" text="Love at first sight" order="126">
+		<alt>*IN LOVE*</alt>
+	</emoticon>
+	<emoticon defaultKey="(lovegesture)" image="default_ic_emoticon_lovehands.png" text="Love gesture" order="127">
+		<alt>(LoveGesture)</alt>
+		<alt>(heartgesture)</alt>
+		<alt>(HeartGesture)</alt>
+	</emoticon>
+	<emoticon defaultKey="(loveyou)" image="default_ic_emoticon_loveyou.png" text="Love you" order="128">
+		<alt>(Loveyou)</alt>
+	</emoticon>
+	<emoticon defaultKey=":email" image="default_mail.png" text="Mail" order="129">
+		<alt>(mail)</alt>
+		<alt>(Mail)</alt>
+		<alt>(MAIL)</alt>
+		<alt>(email)</alt>
+		<alt>(Email)</alt>
+		<alt>(EMAIL)</alt>
+	</emoticon>
+	<emoticon defaultKey="(moon)" image="default_ic_emoticon_moon.png" text="Moon" order="130">
+		<alt>(Moon)</alt>
+	</emoticon>
+	<emoticon defaultKey="(muscle)" image="default_ic_emoticon_muscel.png" text="Muscle" order="131">
+		<alt>(Muscle)</alt>
+	</emoticon>
+	<emoticon defaultKey=":-B" image="default_nerd.png" text="Nerd" order="132">
+		<alt>B-|</alt>
+		<alt>8-B</alt>
+		<alt>*8-|</alt>
+		<alt>(nerd)</alt>
+		<alt>(Nerd)</alt>
+		<alt>(NERD)</alt>
+	</emoticon>
+	<emoticon defaultKey="(noworries)" image="default_img_no_worries.gif" text="No worries" order="133">
+		<alt>(Noworries)</alt>
+		<alt>(NOWORRIES)</alt>
+	</emoticon>
+	<emoticon defaultKey=":office" image="default_Office.png" text="Office" order="134">
+		<alt>(office)</alt>
+	</emoticon>
+	<emoticon defaultKey="(ok)" image="default_OK.png" text="OK" order="135">
+		<alt>(OK)</alt>
+		<alt>(a ok)</alt>
+	</emoticon>
+	<emoticon defaultKey="(okay)" image="default_img_ok.gif" text="OK" order="136">
+		<alt>(Okay)</alt>
+		<alt>(OKAY)</alt>
+	</emoticon>
+	<emoticon defaultKey="(panda)" image="default_ic_emoticon_panda.png" text="Panda" order="137">
+		<alt>(Panda)</alt>
+	</emoticon>
+	<emoticon defaultKey=":parcel" image="default_Parcel.png" text="Parcel" order="138">
+	</emoticon>
+	<emoticon defaultKey="&lt;:-P" image="default_Party.png" text="Party" order="139">
+		<alt>(party)</alt>
+	</emoticon>
+	<emoticon defaultKey="(peace)" image="default_peace.png" text="Peace" order="140">
+		<alt>(Peace)</alt>
+	</emoticon>
+	<emoticon defaultKey=":pizza" image="default_pizza.png" text="Pizza" order="141">
+		<alt>(pizza)</alt>
+	</emoticon>
+	<emoticon defaultKey="(pointdown)" image="default_Point-down.png" text="Point down" order="142">
+		<alt>(Point Down)</alt>
+		<alt>(point down)</alt>
+		<alt>(Pointdown)</alt>
+	</emoticon>
+	<emoticon defaultKey="(pointleft)" image="default_Point-left.png" text="Point left" order="143">
+		<alt>(Point Left)</alt>
+		<alt>(point left)</alt>
+		<alt>(Pointleft)</alt>
+	</emoticon>
+	<emoticon defaultKey="(pointright)" image="default_Point-right.png" text="Point right" order="144">
+		<alt>(Point Right)</alt>
+		<alt>(point right)</alt>
+		<alt>(Pointright)</alt>
+	</emoticon>
+	<emoticon defaultKey="(pointup)" image="default_Point-up.png" text="Point up" order="145">
+		<alt>(Point Up)</alt>
+		<alt>(point up)</alt>
+		<alt>(Pointup)</alt>
+	</emoticon>
+	<emoticon defaultKey=":present" image="default_present.png" text="Present" order="146">
+	</emoticon>
+	<emoticon defaultKey=":pumpkin" image="default_pumpkin.png" text="Pumpkin" order="147">
+		<alt>(pumpkin)</alt>
+		<alt>(Pumpkin)</alt>
+		<alt>(PUMPKIN)</alt>
+		<alt>(halloween)</alt>
+		<alt>(Halloween)</alt>
+		<alt>(HALLOWEEN)</alt>
+	</emoticon>
+	<emoticon defaultKey="(questionmark)" image="default_img_question_mark.gif" text="Question" order="148">
+		<alt>(Questionmark)</alt>
+		<alt>(QUESTIONMARK)</alt>
+	</emoticon>
+	<emoticon defaultKey="(rockon)" image="default_rock-on.png" text="Rock on" order="149">
+		<alt>(Rockon)</alt>
+		<alt>(RockOn)</alt>
+		<alt>(ROCKON)</alt>
+		<alt>\m/</alt>
+	</emoticon>
+	<emoticon defaultKey="o_o" image="default_rolleyes.png" text="Roll eyes" order="150">
+		<alt>o-o</alt>
+	</emoticon>
+	<emoticon defaultKey="(rollingeyes)" image="default_img_rolling_eyes.gif" text="Rolling eyes" order="151">
+		<alt>(Rollingeyes)</alt>
+		<alt>(ROLLINGEYES)</alt>
+	</emoticon>
+	<emoticon defaultKey=":(" image="default_sad.png" text="Sad" order="152">
+		<alt>:-(</alt>
+	</emoticon>
+	<emoticon defaultKey="(sadwithtears)" image="default_img_sad.gif" text="Sad" order="153">
+		<alt>(Sadwithtears)</alt>
+		<alt>(SADWITHTEARS)</alt>
+	</emoticon>
+	<emoticon defaultKey="(scared)" image="default_img_scared.gif" text="Scared" order="154">
+		<alt>(Scared)</alt>
+		<alt>(SCARED)</alt>
+	</emoticon>
+	<emoticon defaultKey="(screaming)" image="default_ic_emoticon_screaming.png" text="Screaming" order="155">
+		<alt>(Screaming)</alt>
+		<alt>(terrified)</alt>
+		<alt>(Terrified)</alt>
+	</emoticon>
+	<emoticon defaultKey=":x" image="default_secret.png" text="Secret" order="156">
+		<alt>(secret)</alt>
+		<alt>(Secret)</alt>
+		<alt>(SECRET)</alt>
+		<alt>:X</alt>
+		<alt>:-x</alt>
+		<alt>:-X</alt>
+	</emoticon>
+	<emoticon defaultKey="(shakehands)" image="default_img_shake_hands.gif" text="Shake hands" order="157">
+		<alt>(Shakehands)</alt>
+		<alt>(SHAKEHANDS)</alt>
+	</emoticon>
+	<emoticon defaultKey="(feelingshy)" image="default_img_shy.gif" text="Shy" order="158">
+		<alt>(Feelingshy)</alt>
+		<alt>(FEELINGSHY)</alt>
+	</emoticon>
+	<emoticon defaultKey="(:-$" image="default_sick.png" text="Sick" order="159">
+		<alt>+o(</alt>
+	</emoticon>
+	<emoticon defaultKey="#)" image="default_sleep.png" text="Sleep" order="160">
+		<alt>|-)</alt>
+		<alt>u_u</alt>
+	</emoticon>
+	<emoticon defaultKey="(&gt;.&lt;)" image="default_sleepy.png" text="Sleepy" order="161">
+		<alt>(sleepy)</alt>
+	</emoticon>
+	<emoticon defaultKey=":)" image="default_smile.png" text="Smile" order="162">
+		<alt>:-)</alt>
+		<alt>^_^</alt>
+	</emoticon>
+	<emoticon defaultKey="= =b" image="default_ic_emoticon_cold_sweat.png" text="Smiling Face with Cold Sweat" order="163">
+		<alt>=.=b</alt>
+	</emoticon>
+	<emoticon defaultKey="(snow)" image="default_ic_emoticon_snowflake.png" text="Snow" order="164">
+		<alt>(Snow)</alt>
+		<alt>(snowy)</alt>
+		<alt>(Snowy)</alt>
+	</emoticon>
+	<emoticon defaultKey="[:]" image="default_Sparky.png" text="Sparky" order="165">
+		<alt>&lt;(-_-)&gt;</alt>
+	</emoticon>
+	<emoticon defaultKey=":-+" image="default_spechless.png" text="Speechless" order="166">
+		<alt>:-#</alt>
+	</emoticon>
+	<emoticon defaultKey=":spockon" image="default_spockon.png" text="Spockon" order="167">
+	</emoticon>
+	<emoticon defaultKey="(*)" image="default_star.png" text="Star" order="168">
+		<alt>(star)</alt>
+		<alt>(Star)</alt>
+		<alt>(STAR)</alt>
+	</emoticon>
+	<emoticon defaultKey="(sun)" image="default_ic_emoticon_sun.png" text="Sun" order="169">
+		<alt>(Sun)</alt>
+	</emoticon>
+	<emoticon defaultKey=":sushi" image="default_sushi.png" text="Sushi" order="170">
+		<alt>(sushi)</alt>
+		<alt>(Sushi)</alt>
+		<alt>(SUSHI)</alt>
+	</emoticon>
+	<emoticon defaultKey="(tearsofjoy)" image="default_img_tears_of_joy.gif" text="Tears of joy" order="171">
+		<alt>(Tearsofjoy)</alt>
+		<alt>(TEARSOFJOY)</alt>
+	</emoticon>
+	<emoticon defaultKey=":-I" image="default_unemotional.png" text="Thinking" order="172">
+	</emoticon>
+	<emoticon defaultKey="(n)" image="default_thumbs-down.png" text="Thumbs Down" order="173">
+		<alt>(^-^)p</alt>
+		<alt>=p</alt>
+	</emoticon>
+	<emoticon defaultKey="(thumbsup)" image="default_img_thumbsup.gif" text="Thumbs up" order="174">
+		<alt>(Thumbsup)</alt>
+		<alt>(THUMBSUP)</alt>
+	</emoticon>
+	<emoticon defaultKey="(y)" image="default_thumbs-up.png" text="Thumbs Up" order="175">
+		<alt>(^-^)b</alt>
+		<alt>=b</alt>
+	</emoticon>
+	<emoticon defaultKey=":P" image="default_tongue.png" text="Tongue" order="176">
+		<alt>:p</alt>
+		<alt>:-P</alt>
+		<alt>:-p</alt>
+	</emoticon>
+	<emoticon defaultKey=":s" image="default_undecided.png" text="Undecided" order="177">
+		<alt>:S</alt>
+		<alt>:-s</alt>
+		<alt>:-S</alt>
+	</emoticon>
+	<emoticon defaultKey=":/" image="default_unimpressed.png" text="Unimpressed" order="178">
+		<alt>:-/</alt>
+		<alt>:-\</alt>
+		<alt>:\</alt>
+		<alt>:-|</alt>
+		<alt>:|</alt>
+	</emoticon>
+	<emoticon defaultKey=":-&lt;" image="default_upset.png" text="Upset" order="179">
+		<alt>(upset)</alt>
+	</emoticon>
+	<emoticon defaultKey="(weary)" image="default_ic_emoticon_weary.png" text="Weary" order="180">
+		<alt>(Weary)</alt>
+		<alt>(tired)</alt>
+		<alt>(Tired)</alt>
+	</emoticon>
+	<emoticon defaultKey=":webex" image="default_Webexemoticon.png" text="WebEx" order="181">
+		<alt>(webex)</alt>
+	</emoticon>
+	<emoticon defaultKey=";)" image="default_wink.png" text="Wink" order="182">
+		<alt>;-)</alt>
+	</emoticon>
+	<emoticon defaultKey=":!" image="default_worried.png" text="Worried" order="183">
+		<alt>(worried)</alt>
+		<alt>(Worried)</alt>
+		<alt>(WORRIED)</alt>
+		<alt>:-!</alt>
+	</emoticon>
+	<emoticon defaultKey="(smileofsatisfaction)" image="default_img_yay.gif" text="Yay" order="184">
+		<alt>(Smileofsatisfaction)</alt>
+		<alt>(SMILEOFSATISFACTION)</alt>
+	</emoticon>
+	<emoticon defaultKey="mO:)" image="michael_angel.png" text="Michael Angel" order="185">
 		<alt>mO:-)</alt>
 		<alt>mo:-)</alt>
 		<alt>mo:)</alt>
 		<alt>mangel;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&gt;:O" image="michael_angry.png" text="Michael Angry" order="82">
+	<emoticon defaultKey="m&gt;:O" image="michael_angry.png" text="Michael Angry" order="186">
 		<alt>m&gt;:-O</alt>
 		<alt>mangry;</alt>
 	</emoticon>
-	<emoticon defaultKey="m8D" image="michael_awesome.png" text="Michael Awesome" order="83">
+	<emoticon defaultKey="m8D" image="michael_awesome.png" text="Michael Awesome" order="187">
 		<alt>m8-D</alt>
 		<alt>mawesome;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&lt;:D" image="michael_christmas.png" text="Michael Christmas" order="84">
+	<emoticon defaultKey="m&lt;:D" image="michael_christmas.png" text="Michael Christmas" order="188">
 		<alt>m&lt;:-D</alt>
 		<alt>mchristmas;</alt>
 	</emoticon>
-	<emoticon defaultKey="mcold" image="michael_cold.png" text="Michael Cold" order="85">
+	<emoticon defaultKey="mcold" image="michael_cold.png" text="Michael Cold" order="189">
 		<alt>mbrr</alt>
 		<alt>mfreezing;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:,(" image="michael_crying.png" text="Michael Crying" order="86">
+	<emoticon defaultKey="m:,(" image="michael_crying.png" text="Michael Crying" order="190">
 		<alt>m:-,(</alt>
 		<alt>mx,(</alt>
 		<alt>mx-,(</alt>
@@ -337,304 +700,171 @@
 		<alt>mX-,(</alt>
 		<alt>mcrying;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&gt;:D" image="michael_evilsmile.png" text="Michael Evil Smile" order="87">
+	<emoticon defaultKey="mdark" image="michael_dark.png" text="Michael Dark" order="191">
+		<alt>mdark;</alt>
+	</emoticon>
+	<emoticon defaultKey="m&gt;:D" image="michael_evilsmile.png" text="Michael Evil Smile" order="192">
 		<alt>m&gt;:-D</alt>
 		<alt>mevil;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:D" image="michael_excited.png" text="Michael Excited" order="88">
+	<emoticon defaultKey="m:D" image="michael_excited.png" text="Michael Excited" order="193">
 		<alt>m:-D</alt>
 		<alt>mexcited;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&gt;:(" image="michael_frown.png" text="Michael Frown" order="89">
+	<emoticon defaultKey="m&gt;:(" image="michael_frown.png" text="Michael Frown" order="194">
 		<alt>m&gt;:-(</alt>
 		<alt>mfrown;</alt>
 	</emoticon>
-	<emoticon defaultKey="m^_^" image="michael_happy.png" text="Michael Happy" order="90">
+	<emoticon defaultKey="m^_^" image="michael_happy.png" text="Michael Happy" order="195">
 		<alt>m^-^</alt>
 		<alt>m^.^</alt>
 		<alt>mhappy;</alt>
 	</emoticon>
-	<emoticon defaultKey="midea" image="michael_idea.png" text="Michael Idea" order="91">
+	<emoticon defaultKey="midea" image="michael_idea.png" text="Michael Idea" order="196">
 		<alt>m!:O</alt>
 		<alt>m!:-O</alt>
 		<alt>midea;;</alt>
 	</emoticon>
-	<emoticon defaultKey="mxD" image="michael_laughing.png" text="Michael Laughing" order="92">
+	<emoticon defaultKey="mxD" image="michael_laughing.png" text="Michael Laughing" order="197">
 		<alt>mXD</alt>
 		<alt>mlaughing;</alt>
 	</emoticon>
-	<emoticon defaultKey="mx)" image="michael_lol.png" text="Michael Lol" order="93">
+	<emoticon defaultKey="mx)" image="michael_lol.png" text="Michael Lol" order="198">
 		<alt>mx-)</alt>
 		<alt>mX)</alt>
 		<alt>mX-)</alt>
 		<alt>mlol;</alt>
 	</emoticon>
-	<emoticon defaultKey="mxP" image="michael_loltongue.png" text="Michael Lol Tongue" order="94">
+	<emoticon defaultKey="mxP" image="michael_loltongue.png" text="Michael Lol Tongue" order="199">
 		<alt>mx-P</alt>
 		<alt>mXP</alt>
 		<alt>mX-P</alt>
 		<alt>mloltongue;</alt>
 		<alt>mloltung;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&lt;3D" image="michael_love.png" text="Michael Love" order="95">
+	<emoticon defaultKey="m&lt;3D" image="michael_love.png" text="Michael Love" order="200">
 		<alt>m&lt;3-D</alt>
 		<alt>mlove;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&lt;3D*" image="michael_love_barf.png" text="Michael Love Epic" order="96">
+	<emoticon defaultKey="m&lt;3D*" image="michael_love_barf.png" text="Michael Love Epic" order="201">
 		<alt>m:&lt;3-D*</alt>
 		<alt>mlovebarf;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&gt;:)" image="michael_mischievous.png" text="Michael Mischievous" order="97">
+	<emoticon defaultKey="m&gt;:)" image="michael_mischievous.png" text="Michael Mischievous" order="202">
 		<alt>m&gt;:-)</alt>
 		<alt>mmischievous;</alt>
 	</emoticon>
-	<emoticon defaultKey="mx_x" image="michael_neverunsee.png" text="Michael Never Unsee" order="98">
+	<emoticon defaultKey="mx_x" image="michael_neverunsee.png" text="Michael Never Unsee" order="203">
 		<alt>mX_X</alt>
 		<alt>mneverunsee;</alt>
 	</emoticon>
-	<emoticon defaultKey="mD:" image="michael_ohno.png" text="Michael Oh No" order="99">
+	<emoticon defaultKey="mD:" image="michael_ohno.png" text="Michael Oh No" order="204">
 		<alt>mD-:</alt>
 		<alt>mohno</alt>
 		<alt>mohno;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:(" image="michael_sad.png" text="Michael Sad" order="100">
+	<emoticon defaultKey="m:(" image="michael_sad.png" text="Michael Sad" order="205">
 		<alt>m:-(</alt>
 		<alt>msad;</alt>
 	</emoticon>
-	<emoticon defaultKey="moops" image="michael_shiftyrightteeth.png" text="Michael Shifty Teeth" order="101">
+	<emoticon defaultKey="moops" image="michael_shiftyrightteeth.png" text="Michael Shifty Teeth" order="206">
 		<alt>m&gt;=&gt;</alt>
 		<alt>mshiftyrightteeth;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&lt;_&lt;" image="michael_shiftyleft.png" text="Michael ShiftyLeft" order="102">
+	<emoticon defaultKey="m&lt;_&lt;" image="michael_shiftyleft.png" text="Michael ShiftyLeft" order="207">
 		<alt>m&lt;.&lt;</alt>
 		<alt>mshiftyleft;</alt>
 	</emoticon>
-	<emoticon defaultKey="m&gt;_&gt;" image="michael_shiftyright.png" text="Michael ShiftyRight" order="103">
+	<emoticon defaultKey="m&gt;_&gt;" image="michael_shiftyright.png" text="Michael ShiftyRight" order="208">
 		<alt>m&gt;.&gt;</alt>
 		<alt>mshiftyright;</alt>
 	</emoticon>
-	<emoticon defaultKey="m;P" image="michael_silly.png" text="Michael Silly" order="104">
+	<emoticon defaultKey="m;P" image="michael_silly.png" text="Michael Silly" order="209">
 		<alt>m;-P</alt>
 		<alt>m:P</alt>
 		<alt>m:-P</alt>
 		<alt>msilly;</alt>
 	</emoticon>
-	<emoticon defaultKey="msleepy" image="michael_sleepy.png" text="Michael Sleepy" order="105">
+	<emoticon defaultKey="msleepy" image="michael_sleepy.png" text="Michael Sleepy" order="210">
 		<alt>m-.-</alt>
 		<alt>m-o-</alt>
 		<alt>msleepy;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:)" image="michael_smile.png" text="Michael Smile" order="106">
+	<emoticon defaultKey="m:)" image="michael_smile.png" text="Michael Smile" order="211">
 		<alt>m:-)</alt>
 		<alt>msmile;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:P" image="michael_smiletongue.png" text="Michael Smile Tongue" order="107">
+	<emoticon defaultKey="m:P" image="michael_smiletongue.png" text="Michael Smile Tongue" order="212">
 		<alt>m:-P</alt>
 		<alt>msmiletongue;</alt>
 		<alt>msmiletung;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:}" image="michael_smug.png" text="Michael Smug" order="108">
+	<emoticon defaultKey="m:}" image="michael_smug.png" text="Michael Smug" order="213">
 		<alt>m:-}</alt>
 		<alt>msmug;</alt>
 	</emoticon>
-	<emoticon defaultKey="mB|" image="michael_sunglasses.png" text="Michael Sunglasses" order="109">
+	<emoticon defaultKey="mstatic" image="michael_static.png" text="Michael Static" order="214">
+		<alt>mstatic;</alt>
+	</emoticon>
+	<emoticon defaultKey="mB|" image="michael_sunglasses.png" text="Michael Sunglasses" order="215">
 		<alt>mB-|</alt>
 		<alt>mdealwithit;</alt>
 		<alt>msunglasses;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:o" image="michael_surprised.png" text="Michael Surprised" order="110">
+	<emoticon defaultKey="m:o" image="michael_surprised.png" text="Michael Surprised" order="216">
 		<alt>m:-o</alt>
 		<alt>msurprised;</alt>
 	</emoticon>
-	<emoticon defaultKey="m=-=" image="michael_suspicious.png" text="Michael Suspicious" order="111">
+	<emoticon defaultKey="m=-=" image="michael_suspicious.png" text="Michael Suspicious" order="217">
 		<alt>m=_=</alt>
 		<alt>msuspicious;</alt>
 	</emoticon>
-	<emoticon defaultKey="mthumbup" image="michael_thumbup.png" text="Michael Thumb Up" order="112">
+	<emoticon defaultKey="mthumbup" image="michael_thumbup.png" text="Michael Thumb Up" order="218">
 		<alt>myes</alt>
 		<alt>myes;</alt>
 	</emoticon>
-	<emoticon defaultKey="mthumbsup" image="michael_thumbsup.png" text="Michael Thumbs Up" order="113">
+	<emoticon defaultKey="mthumbsup" image="michael_thumbsup.png" text="Michael Thumbs Up" order="219">
 		<alt>myesyes</alt>
 		<alt>myesyes;</alt>
 	</emoticon>
-	<emoticon defaultKey="mthumbzup" image="michael_superthumbsup.png" text="Michael Thumbz Up" order="114">
+	<emoticon defaultKey="mthumbzup" image="michael_superthumbsup.png" text="Michael Thumbz Up" order="220">
 		<alt>myesyesyes</alt>
 		<alt>myesyesyes;</alt>
 	</emoticon>
-	<emoticon defaultKey="m|(" image="michael_tired.png" text="Michael Tired" order="115">
+	<emoticon defaultKey="m|(" image="michael_tired.png" text="Michael Tired" order="221">
 		<alt>m|-(</alt>
 		<alt>mtired;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:-\" image="michael_undecided.png" text="Michael Undecided" order="116">
+	<emoticon defaultKey="m:-\" image="michael_undecided.png" text="Michael Undecided" order="222">
 		<alt>m:\</alt>
 		<alt>m:/</alt>
 		<alt>m:-/</alt>
 		<alt>mundecided;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:-|" image="michael_unimpressed.png" text="Michael Unimpressed" order="117">
+	<emoticon defaultKey="m:-|" image="michael_unimpressed.png" text="Michael Unimpressed" order="223">
 		<alt>m:|</alt>
 		<alt>munimpressed;</alt>
 	</emoticon>
-	<emoticon defaultKey="m|P" image="michael_unimpressedtongue.png" text="Michael Unimpressed Tongue" order="118">
+	<emoticon defaultKey="m|P" image="michael_unimpressedtongue.png" text="Michael Unimpressed Tongue" order="224">
 		<alt>tm-P</alt>
 		<alt>munimpressedtongue;</alt>
 		<alt>munimpressedtung;</alt>
 	</emoticon>
-	<emoticon defaultKey="m;)" image="michael_wink.png" text="Michael Wink" order="119">
+	<emoticon defaultKey="m;)" image="michael_wink.png" text="Michael Wink" order="225">
 		<alt>m;-)</alt>
 		<alt>mwink;</alt>
 	</emoticon>
-	<emoticon defaultKey="m:O" image="michael_wow.png" text="Michael Wow" order="120">
+	<emoticon defaultKey="m:O" image="michael_wow.png" text="Michael Wow" order="226">
 		<alt>m:-O</alt>
 		<alt>mwow;</alt>
 	</emoticon>
-	<emoticon defaultKey="mx(" image="michael_yuck.png" text="Michael Yuck" order="121">
+	<emoticon defaultKey="mx(" image="michael_yuck.png" text="Michael Yuck" order="227">
 		<alt>mx-(</alt>
 		<alt>mX(</alt>
 		<alt>mX-(</alt>
 		<alt>myuck;</alt>
 	</emoticon>
-	<emoticon defaultKey="to&gt;:O" image="tony_angry.png" text="Tony Angry" order="122">
-		<alt>to&gt;:-O</alt>
-	</emoticon>
-	<emoticon defaultKey="to:|" image="tony_blank.png" text="Tony Blank" order="123">
-		<alt>to:-|</alt>
-	</emoticon>
-	<emoticon defaultKey="to:D" image="tony_excited.png" text="Tony Excited" order="124">
-		<alt>to:-D</alt>
-	</emoticon>
-	<emoticon defaultKey="to&gt;:(" image="tony_frown.png" text="Tony Frown" order="125">
-		<alt>to&gt;:-(</alt>
-	</emoticon>
-	<emoticon defaultKey="to^_^" image="tony_happy.png" text="Tony Happy" order="126">
-		<alt>to^-^</alt>
-	</emoticon>
-	<emoticon defaultKey="toxD" image="tony_laughing.png" text="Tony Laughing" order="127">
-		<alt>tox-D</alt>
-	</emoticon>
-	<emoticon defaultKey="to:(" image="tony_sad.png" text="Tony Sad" order="128">
-		<alt>to:-(</alt>
-	</emoticon>
-	<emoticon defaultKey="to&lt;_&lt;" image="tony_shiftyleft.png" text="Tony ShiftyLeft" order="129">
-		<alt>to&lt;.&lt;</alt>
-		<alt>toshiftyleft;</alt>
-	</emoticon>
-	<emoticon defaultKey="to&gt;_&gt;" image="tony_shiftyright.png" text="Tony ShiftyRight" order="130">
-		<alt>to&gt;.&gt;</alt>
-		<alt>toshiftyright;</alt>
-	</emoticon>
-	<emoticon defaultKey="to:)" image="tony_smile.png" text="Tony Smile" order="131">
-		<alt>to:-)</alt>
-	</emoticon>
-	<emoticon defaultKey="to:o" image="tony_surprised.png" text="Tony Surprised" order="132">
-		<alt>to:-o</alt>
-	</emoticon>
-	<emoticon defaultKey="tothumbsup;" image="tony_thumbsup.png" text="Tony Thumbs Up" order="133">
-		<alt>toyes;</alt>
-	</emoticon>
-	<emoticon defaultKey="to|(" image="tony_tired.png" text="Tony Tired" order="134">
-		<alt>to|-(</alt>
-		<alt>totired;</alt>
-	</emoticon>
-	<emoticon defaultKey="to:-\" image="tony_undecided.png" text="Tony Undecided" order="135">
-		<alt>to:\</alt>
-		<alt>to:/</alt>
-		<alt>to:-/</alt>
-	</emoticon>
-	<emoticon defaultKey="to:-|" image="tony_unimpressed.png" text="Tony Unimpressed" order="136">
-		<alt>to:|</alt>
-	</emoticon>
-	<emoticon defaultKey="to:O" image="tony_wow.png" text="Tony Wow" order="137">
-		<alt>to:-O</alt>
-		<alt>towow;</alt>
-	</emoticon>
-	<emoticon defaultKey="mbr:D" image="mattbr_excited.png" text="Matt Excited" order="138">
-		<alt>mbr:-D</alt>
-	</emoticon>
-	<emoticon defaultKey="mbr:(" image="mattbr_sad.png" text="Matt Sad" order="139">
-		<alt>mbr:-(</alt>
-	</emoticon>
-	<emoticon defaultKey="mbr:)" image="mattbr_smile.png" text="Matt Smile" order="140">
-		<alt>mbr:-)</alt>
-	</emoticon>
-	<emoticon defaultKey="mbrB|" image="mattbr_sunglasses.png" text="Matt Sunglasses" order="141">
-		<alt>mbrB-|</alt>
-		<alt>mbrdealwithit</alt>
-	</emoticon>
-	<emoticon defaultKey="mbrthumbup" image="mattbr_thumbup.png" text="Matt Thumb Up" order="142">
-		<alt>mbryes</alt>
-	</emoticon>
-	<emoticon defaultKey="mbr:-\" image="mattbr_undecided.png" text="Matt Undecided" order="143">
-		<alt>mbr:\</alt>
-		<alt>mbr:/</alt>
-		<alt>mbr:-/</alt>
-	</emoticon>
-	<emoticon defaultKey="mbr:-|" image="mattbr_unimpressed.png" text="Matt Unimpressed" order="144">
-		<alt>mbr:|</alt>
-	</emoticon>
-	<emoticon defaultKey="animalcrossingtear;" image="meme_animalcrossingtear.png" text="Animal Crossing Tear" order="145">
-		<alt>crie;</alt>
-	</emoticon>
-	<emoticon defaultKey="doh;" image="meme_homerdoh.png" text="Homer 'Doh" order="146">
-		<alt>'doh;</alt>
-	</emoticon>
-	<emoticon defaultKey="drool;" image="meme_homerdrool.png" text="Homer Drool" order="147">
-		<alt>homerdrool;</alt>
-	</emoticon>
-	<emoticon defaultKey="sideeye;" image="meme_sideeyechloe.png" text="Side Eyeing Chloe" order="148">
-		<alt>chloe;</alt>
-	</emoticon>
-	<emoticon defaultKey="nopity;" image="meme_smallestviolin.png" text="Smallest Violin" order="149">
-		<alt>smallestviolin;</alt>
-	</emoticon>
-	<emoticon defaultKey="thisisfine;" image="meme_thisisfine.png" text="This Is Fine" order="150">
-		<alt>i'mfine;</alt>
-	</emoticon>
-	<emoticon defaultKey="animalcrossingshaking;" image="gif_animalcrossingshaking.gif" text="Animal Crossing Shaking" order="151">
-		<alt>((animalcrossing))</alt>
-	</emoticon>
-	<emoticon defaultKey="catshaking;" image="gif_catshaking.gif" text="Cat Shaking" order="152">
-		<alt>((cat))</alt>
-	</emoticon>
-	<emoticon defaultKey="old;" image="gif_gettingold.gif" text="Getting Old" order="153">
-		<alt>gettingold;</alt>
-	</emoticon>
-	<emoticon defaultKey="happybirthday;" image="gif_happybirthdayunicorns.gif" text="Happy Birthday" order="154">
-		<alt>HAPPYBIRTHDAY;</alt>
-		<alt>unicornbirthday;</alt>
-	</emoticon>
-	<emoticon defaultKey="homerbush;" image="gif_homerbush.gif" text="Homer Bush" order="155">
-	</emoticon>
-	<emoticon defaultKey="homerbushreverse;" image="gif_homerbushreverse.gif" text="Homer Bush Reverse" order="156">
-	</emoticon>
-	<emoticon defaultKey="kermitshaking;" image="gif_kermitshaking.gif" text="Kermit Shaking" order="157">
-		<alt>((kermit))</alt>
-	</emoticon>
-	<emoticon defaultKey="linkshaking;" image="gif_linkshaking.gif" text="Link Shaking" order="158">
-		<alt>((link))</alt>
-	</emoticon>
-	<emoticon defaultKey="oneeternitylater;" image="timecard_oneeternity.png" text="One Eternity Later" order="159">
-		<alt>aneternitylater;</alt>
-	</emoticon>
-	<emoticon defaultKey="severalbadpunslater;" image="timecard_severalbadpuns.png" text="Several Bad Puns Later" order="160">
-		<alt>badpunslater;</alt>
-	</emoticon>
-	<emoticon defaultKey="severaldayslater;" image="timecard_severaldays.png" text="Several Days Later" order="161">
-		<alt>dayspunslater;</alt>
-	</emoticon>
-	<emoticon defaultKey="thousandsoftearslater;" image="timecard_thousandsoftears.png" text="Thousands Of Tears Later" order="162">
-		<alt>manytearslater;</alt>
-	</emoticon>
-	<emoticon defaultKey="threehourslater;" image="timecard_3hours.png" text="Three Hours Later" order="163">
-		<alt>3hourslater;</alt>
-	</emoticon>
-	<emoticon defaultKey="twothousandyearslater;" image="timecard_2000years.png" text="Two Thousand Years Later" order="164">
-		<alt>2000yearslater;</alt>
-	</emoticon>
-	<emoticon defaultKey="c:)" image="chris_smile.png" text="Chris Smile" order="165">
-	</emoticon>
-	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="166">
+	<emoticon defaultKey="levelup;" image="achievements_levelup.png" text="Level Up" order="228">
 		<alt>/levelup</alt>
 	</emoticon>
 </emoticons>
